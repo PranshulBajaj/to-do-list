@@ -22,7 +22,7 @@ function ToDoInput({ tasks, addToDo }) {
   };
 
   let handleAddButton = () => {
-    if (tasks.some((item) => item.todoName === itemName)) {
+    if (tasks.some((item) => item.todoName.toLowerCase() === itemName.toLowerCase())) {
       alert("Task already exists!");
     } else if (itemDate && itemName) {
       addToDo(itemName, itemDate);
