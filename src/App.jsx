@@ -1,7 +1,7 @@
 import ToDoHeading from "./components/ToDoHeading";
 import ToDoInput from "./components/ToDoInput";
 import ToDoItems from "./components/ToDoItems";
-import styles from "./App.module.css";
+import "./styles.css";
 import Container from "./components/Container";
 import { useState } from "react";
 
