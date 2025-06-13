@@ -9,7 +9,10 @@ A simple React app to manage your daily tasks. Add, view, and delete tasks with 
 - Add tasks with a date
 - Delete tasks
 - Tasks persist after page refresh
+- Prevents duplicate tasks based on task name
 - Built with React + CSS Modules
+- Clean, responsive UI
+- Input validation for empty task name/date
 
 ---
 
@@ -19,6 +22,12 @@ A simple React app to manage your daily tasks. Add, view, and delete tasks with 
 - JavaScript
 - LocalStorage
 - CSS Modules
+
+---
+
+## 🛠 Future Improvements
+⏳ Add due-date sorting or filtering
+🔄 Add ability to edit tasks
 
 ---
 
