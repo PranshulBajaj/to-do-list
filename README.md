@@ -3,7 +3,11 @@
 A simple React app to manage your daily tasks. Add, view, and delete tasks with ease. Tasks are saved using **localStorage**.
 
 ---
+## 🔗 Live Demo
 
+[Click here to view the app](https://pranshulbajaj.github.io/to-do-list/)
+
+---
 ## 🚀 Features
 
 - Add tasks with a date
