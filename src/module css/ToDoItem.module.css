@@ -1,0 +1,9 @@
+.itemRow{
+  background-color: rgb(87, 5, 107);
+  color: aliceblue;
+  width: 100%;
+}
+.myButton {
+  width: 100%;
+  height: 30px;
+}

@@ -1,0 +1,11 @@
+.toDoHeading{
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  background-image:url(../assets/pngtree-christmas-mosk-up-wish-list-on-purple-background-notebook-todo-list-image_15497116.jpg);
+  height: 150px;
+  color: azure;
+  width: 50%;
+  margin: 20px auto;
+  padding-top: 40px;
+}
